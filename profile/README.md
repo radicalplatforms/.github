@@ -16,25 +16,30 @@ Check out what we're doing with Shafa by skimming the README, issues, and pull r
 - **Radison Akerman, Organization Lead**
     - *Shafa v1:* Project Owner, Fullstack Lead
     - *Gather (Sparkhacks '24):* Fullstack Lead
-    - *Office Hourly (Wildhacks '23):* Frontend Lead, Backend
+    - *Office Hourly (Wildhacks '23):* Frontend & Devops Lead, Backend Core
     - *Exploding Chickens v1, v2:* Project Owner, Fullstack Lead
 - **Michelle Zhou, Project Management Lead**
     - *Shafa v1:* Project Manager
 - **Vincent Do**
     - *Shafa v1:* Backend
-    - *Office Hourly (Wildhacks '23):* Backend
     - *Exploding Chickens v1, v2:* Backend
 - **Sengdao Inthavong**
-    - *Office Hourly (Wildhacks '23):* Backend
-    - *Exploding Chickens v2:* Graphics, Backend
-    - *Exploding Chickens v1:* Graphics, Frontend, Backend
+    - *Office Hourly (Wildhacks '23):* Backend, Presentation Lead
+    - *Exploding Chickens v2:* Graphics Lead, Backend
+    - *Exploding Chickens v1:* Graphics Lead, Frontend, Backend
 - **Richard Yang**
     - *Office Hourly (Wildhacks '23):* Backend
     - *Exploding Chickens v1, v2:* Backend
 - **Leeza Andryushchenko**
-    - *Office Hourly (Wildhacks '23):* Backend Lead
+    - *Office Hourly (Wildhacks '23):* Backend Core
     - *Exploding Chickens v2:* Backend
 - **Dylen Greenenwald**
-    - *Gather (Sparkhacks '24):* Backend
+    - *Gather (Sparkhacks '24):* Backend, Presentation Core
 - **Seyfal Sultanov**
-    - *Gather (Sparkhacks '24):* Backend, AI
+    - *Gather (Sparkhacks '24):* Backend, AI, Presentation Core
+
+***Owner:*** *key stakeholder of project, driving force to render project completion.*
+
+***Lead:*** *accountable project area leader, made a majority if not all architecture and implementation decisions.*
+
+***Core:*** *critical to their project area, would not be able to implement project area tasks without them.*
