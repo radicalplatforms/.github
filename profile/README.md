@@ -38,8 +38,6 @@ Check out what we're doing with Shafa by skimming the README, issues, and pull r
 - **Seyfal Sultanov**
     - *Gather (Sparkhacks '24):* Backend, AI, Presentation Core
 
-***Owner:*** *key stakeholder of project, driving force to render project completion.*
-
-***Lead:*** *accountable project area leader, made a majority if not all architecture and implementation decisions.*
-
+***Owner:*** *key stakeholder of project, driving force to render project completion.*<br>
+***Lead:*** *accountable project area leader, made a majority if not all architecture and implementation decisions.*<br>
 ***Core:*** *critical to their project area, would not be able to implement project area tasks without them.*
