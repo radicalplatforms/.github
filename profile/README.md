@@ -2,9 +2,9 @@
 
 We're a group of highly-motivated software engineers, project managers, and creatives developing open-source web applications.
 Together in 2020 we built Exploding Chickens — a beautiful, online alternative to the Exploding Kittens card game with 1,300+ games played to date.
-Since then our team has expanded and taken on even more challenges, from competing in hackathons to creating resilient full-stack web applications.
+Since then our team has expanded and taken on even more challenges, from competing in hackathons to creating resilient fullstack web applications.
 
-Many of our hackathons and early projects (Exploding Chickens included) served as fruitful learning experiences on the dos and don'ts of fullstack.
+Many of our hackathons and early projects (Exploding Chickens included) served as fruitful learning experiences on the dos and don'ts of application software engineering.
 We've come away from those experiences with many lessons learned, and are applying them head on to Shafa — our new flagship wardrobe logging, composition, and organization app.
 
 Shafa packs a punch in terms of software engineering best practices.
