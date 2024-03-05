@@ -32,7 +32,7 @@ Check out what we're doing with Shafa by skimming the README, issues, and pull r
     - *Office Hourly (Wildhacks '23):* Backend
     - *Exploding Chickens v1, v2:* Backend
 - **Leeza Andryushchenko**
-    - *Wildhacks 2023 (Office Hourly):* Backend Lead
+    - *Office Hourly (Wildhacks '23):* Backend Lead
     - *Exploding Chickens v2:* Backend
 - **Dylen Greenenwald**
     - *Gather (Sparkhacks '24):* Backend
